@@ -65,8 +65,8 @@ for op in sess.graph.get_operations():
 
 Results are as follows:
 <div  align="center">    
-<img src="./result/um_000003.png" width=100% height=100% border=0/>
-<img src="./result/um_000013.png" width=100% height=100% border=0/>
+<img src="./result/um_000003.png" width=70% height=70% border=0/>
+<img src="./result/um_000013.png" width=70% height=70% border=0/>
 </div>
 
 
